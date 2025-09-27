@@ -1,0 +1,898 @@
+[
+  {
+    "id": "0",
+    "video": "FilmStim/videos/1.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Amusement"
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "video": "FilmStim/videos/2.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Anger"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "video": "FilmStim/videos/3.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "video": "FilmStim/videos/4.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Tenderness"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "video": "FilmStim/videos/5.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Anger"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "video": "FilmStim/videos/7.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Fear"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "video": "FilmStim/videos/8.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Amusement"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "video": "FilmStim/videos/9.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "video": "FilmStim/videos/10.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Disgust"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "video": "FilmStim/videos/11.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Anger"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "video": "FilmStim/videos/12.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Amusement"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "video": "FilmStim/videos/13.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness"
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "video": "FilmStim/videos/14.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Amusement"
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "video": "FilmStim/videos/15.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Tenderness"
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "video": "FilmStim/videos/16.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Fear"
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "video": "FilmStim/videos/17.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Disgust"
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "video": "FilmStim/videos/18.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Tenderness"
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "video": "FilmStim/videos/19.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness"
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "video": "FilmStim/videos/21.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness"
+      }
+    ]
+  },
+  {
+    "id": "19",
+    "video": "FilmStim/videos/22.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Disgust"
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "video": "FilmStim/videos/23.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Amusement"
+      }
+    ]
+  },
+  {
+    "id": "21",
+    "video": "FilmStim/videos/24.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Fear"
+      }
+    ]
+  },
+  {
+    "id": "22",
+    "video": "FilmStim/videos/25.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Anger"
+      }
+    ]
+  },
+  {
+    "id": "23",
+    "video": "FilmStim/videos/26.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Tenderness"
+      }
+    ]
+  },
+  {
+    "id": "24",
+    "video": "FilmStim/videos/27.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Disgust"
+      }
+    ]
+  },
+  {
+    "id": "25",
+    "video": "FilmStim/videos/28.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Fear"
+      }
+    ]
+  },
+  {
+    "id": "26",
+    "video": "FilmStim/videos/30.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Anger"
+      }
+    ]
+  },
+  {
+    "id": "27",
+    "video": "FilmStim/videos/31.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Disgust"
+      }
+    ]
+  },
+  {
+    "id": "28",
+    "video": "FilmStim/videos/32.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Fear"
+      }
+    ]
+  },
+  {
+    "id": "29",
+    "video": "FilmStim/videos/33.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Tenderness"
+      }
+    ]
+  },
+  {
+    "id": "30",
+    "video": "FilmStim/videos/34.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Amusement"
+      }
+    ]
+  },
+  {
+    "id": "31",
+    "video": "FilmStim/videos/35.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Disgust"
+      }
+    ]
+  },
+  {
+    "id": "32",
+    "video": "FilmStim/videos/36.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness"
+      }
+    ]
+  },
+  {
+    "id": "33",
+    "video": "FilmStim/videos/38.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Fear"
+      }
+    ]
+  },
+  {
+    "id": "34",
+    "video": "FilmStim/videos/39.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Anger"
+      }
+    ]
+  },
+  {
+    "id": "35",
+    "video": "FilmStim/videos/41.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Anger"
+      }
+    ]
+  },
+  {
+    "id": "36",
+    "video": "FilmStim/videos/42.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Amusement"
+      }
+    ]
+  },
+  {
+    "id": "37",
+    "video": "FilmStim/videos/43.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness"
+      }
+    ]
+  },
+  {
+    "id": "38",
+    "video": "FilmStim/videos/44.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Tenderness"
+      }
+    ]
+  },
+  {
+    "id": "39",
+    "video": "FilmStim/videos/45.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Neutral"
+      }
+    ]
+  },
+  {
+    "id": "40",
+    "video": "FilmStim/videos/46.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Fear"
+      }
+    ]
+  },
+  {
+    "id": "41",
+    "video": "FilmStim/videos/47.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Disgust"
+      }
+    ]
+  },
+  {
+    "id": "42",
+    "video": "FilmStim/videos/48.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Tenderness"
+      }
+    ]
+  },
+  {
+    "id": "43",
+    "video": "FilmStim/videos/49.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Neutral"
+      }
+    ]
+  },
+  {
+    "id": "44",
+    "video": "FilmStim/videos/50.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Fear"
+      }
+    ]
+  },
+  {
+    "id": "45",
+    "video": "FilmStim/videos/51.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Anger"
+      }
+    ]
+  },
+  {
+    "id": "46",
+    "video": "FilmStim/videos/52.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness"
+      }
+    ]
+  },
+  {
+    "id": "47",
+    "video": "FilmStim/videos/53.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Amusement"
+      }
+    ]
+  },
+  {
+    "id": "48",
+    "video": "FilmStim/videos/54.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness"
+      }
+    ]
+  },
+  {
+    "id": "49",
+    "video": "FilmStim/videos/55.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Fear"
+      }
+    ]
+  },
+  {
+    "id": "50",
+    "video": "FilmStim/videos/56.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Tenderness"
+      }
+    ]
+  },
+  {
+    "id": "51",
+    "video": "FilmStim/videos/57.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Disgust"
+      }
+    ]
+  },
+  {
+    "id": "52",
+    "video": "FilmStim/videos/58.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Neutral"
+      }
+    ]
+  },
+  {
+    "id": "53",
+    "video": "FilmStim/videos/59.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Tenderness"
+      }
+    ]
+  },
+  {
+    "id": "54",
+    "video": "FilmStim/videos/61.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Amusement"
+      }
+    ]
+  },
+  {
+    "id": "55",
+    "video": "FilmStim/videos/62.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness"
+      }
+    ]
+  },
+  {
+    "id": "56",
+    "video": "FilmStim/videos/63.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Disgust"
+      }
+    ]
+  },
+  {
+    "id": "57",
+    "video": "FilmStim/videos/64.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Neutral"
+      }
+    ]
+  },
+  {
+    "id": "58",
+    "video": "FilmStim/videos/65.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Anger"
+      }
+    ]
+  },
+  {
+    "id": "59",
+    "video": "FilmStim/videos/66.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Fear"
+      }
+    ]
+  },
+  {
+    "id": "60",
+    "video": "FilmStim/videos/67.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Amusement"
+      }
+    ]
+  },
+  {
+    "id": "61",
+    "video": "FilmStim/videos/68.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Anger"
+      }
+    ]
+  },
+  {
+    "id": "62",
+    "video": "FilmStim/videos/69.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Disgust"
+      }
+    ]
+  },
+  {
+    "id": "63",
+    "video": "FilmStim/videos/70.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nYou are a multimodal affective computing expert grounded in theory of mind. Your task is to infer the emotion elicited in a typical viewer by this clip, using causal and second-order reasoning (modeling the viewer’s appraisals rather than the characters’ feelings). Proceed as follows: (1) Decode Narrative & Affective Cues (Perceptual Simulation): Systematically extract salient events/outcomes, character expressions and behaviors, spoken tone/prosody (if audible), and cinematic signals (music, pacing, camera focus, lighting) as outward evidence of intended affect. (2) Construct a Viewer Appraisal Model (Second-Order Perspective-Taking): From the perspective of a generic adult viewer, appraise the depicted events along core dimensions: goal congruence/obstruction, threat/safety, agency/blame, norm or purity violation, attachment/care or loss. Keep this distinct from the characters’ internal states. (3) Infer the Elicited Emotion (Causal Attribution): Map the dominant viewer appraisals to one here-and-now elicited emotion for the viewer. Resolve any cue conflicts by prioritizing the most consequential event-appraisal pattern for the viewer, not character mood. (4) Identify Proximate Causes & Modulators: Name the specific scene events/dynamics and any cinematic devices that most directly produce or intensify the elicited emotion you chose. (5) Conclude and Map to Label: Provide your reasoning following the steps above, then choose exactly one label from: Amusement, Anger, Disgust, Fear, Neutral, Sadness, Tenderness. Output exactly: {'emotion': 'label'}."
+      },
+      {
+        "from": "gpt",
+        "value": "Tenderness"
+      }
+    ]
+  }
+]
