@@ -2,6 +2,8 @@
 
 A holistic benchmark and toolkit for evaluating and enhancing the cognition-based emotional understanding capabilities of Multimodal Large Language Models (MLLMs) grounded by Theory-of-Mind (ToM).
 
+https://huggingface.co/datasets/Eureka-Leo/Emotion.Intelligence
+
 ## Repository Structure
 
 ### `/data`
